@@ -1,5 +1,6 @@
 # pandas-challenge
 In this assignment,Pandas DataFrame and Jupyter Notebook is used to analyze school data and district wide standardized test results,to showcase obvious trends in school performance.
+
 The report includes following data
 
 District Summary: DataFrame that summarizes district's key metrics 
@@ -29,6 +30,7 @@ Lowest-Performing Schools (by % Overall Passing)
 
 Math Scores by Grade
 Reading Scores by Grade
+
 Scores by School Spending
 Scores by School Size
 Scores by School Type
