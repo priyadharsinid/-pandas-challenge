@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pycity_Schools_Analysis
 In this assignment,Pandas DataFrame and Jupyter Notebook is used to analyze school data and district wide standardized test results,to showcase obvious trends in school performance.
 
 The report includes following data
@@ -32,6 +32,12 @@ Lowest-Performing Schools (by % Overall Passing)
 
 Math Scores by Grade,
 Reading Scores by Grade
+
+## Requirements
+
+Python
+Pandas
+Jupyter Notebook
 
 Scores by School Spending
 
