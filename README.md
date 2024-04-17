@@ -64,18 +64,4 @@ In this project, I analyzed school data and district-wide standardized test resu
 - Pandas
 - Jupyter Notebook
 
-## Usage
-
-1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook files in a Jupyter Notebook environment.
-3. Run the code cells to perform the analysis and view the results.
-
-## Contributors
-
-- [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
